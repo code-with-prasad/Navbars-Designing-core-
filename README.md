@@ -15,6 +15,7 @@ Technologies Used:
 * JavaScript: Enables dynamic functionality, such as toggling the navbar on mobile devices.
 
 Source Code : https://github.com/code-with-prasad/Navbars-Designing-core-/blob/main/navbar-1.html
+
 Live : Navbar-1 : File URL Link here : https://friendly-figolla-e4ad28.netlify.app/
 
 Navbar-2 : File URL Link here : https://responsivenavbarbyprasad.netlify.app/
